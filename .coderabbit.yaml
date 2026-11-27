@@ -1,0 +1,9 @@
+language: en-US
+early_access: false
+reviews:
+  profile: chill
+  auto_approvals:
+    enabled: true
+    auto_approve_if_no_feedback: true
+chat:
+  auto_reply: true
